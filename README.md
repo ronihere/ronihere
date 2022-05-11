@@ -1,7 +1,7 @@
 Hi 👋 My name is Roni Mondal
 ============================
 
-Web Developer - Django
+Web Developer - 
 -------------
 
 I've been to coding since last 2 years, I am specialized at python and Django mostly
