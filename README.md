@@ -6,7 +6,7 @@ Web Developer(Backend)
 
 * 🌍  I'm based in Kolkata
 * ✉️  You can contact me at [roni78rm@gmail.com](mailto:roni78rm@gmail.com)
-* 🧠  I'm learning React
+* 🧠  I'm learning Spring
 * 🤝  I'm open to collaborating on Python Projects
 * ⚡  Enjoying what I'm doing
 
