@@ -8,9 +8,9 @@ I've been to coding since last 2 years, I am specialized at python and Django mo
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [roni78rm@gmail.com](mailto:roni78rm@gmail.com)
-* 🧠  I'm currently learning Spring
-* 🤝  I'm open to collaborating on Python Django Projects
-* ⚡  Baller
+* 🧠  I'm currently learning Data Structers & Algorithms
+* 🤝  Open to learn and collaborate
+* ⚡  Football is cure
 
 ### Skills
 
