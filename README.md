@@ -6,7 +6,7 @@ Web Developer -
 I am proficient in **Python, Java and Django** mostly
 
 * 🌍  India is my home
-* ✉️  You can contact me at [roni78rm@gmail.com](mailto:roni78rm@gmail.com)
+* ✉️  You can contact me at [yesimroni11@gmail.com](mailto:yesimroni11@gmail.com)
 * 🧠  I'm currently learning Data Structers & Algorithms
 * 🤝  Open to learn and collaborate
 * ⚡  Football is cure
