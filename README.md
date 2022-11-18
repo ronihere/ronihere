@@ -4,7 +4,7 @@ Hi 👋 My name is Roni Mondal
 Web Developer - 
 -------------
 
-I've been to coding since last 2 years, I am specialized at python and Django mostly
+I've been to coding since last 2 years, I am specialized at **Python, Java and Django** mostly
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [roni78rm@gmail.com](mailto:roni78rm@gmail.com)
