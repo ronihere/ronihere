@@ -27,7 +27,9 @@ I am proficient in **React, Nextjs** mostly
 ### Socials
 
 <p align="left"> <a href="https://www.facebook.com/roni.mondal.5283" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/ronihere" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/whois.roni_/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/roni-mondal/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-   <a href="https://www.twitter.com/__footer__" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+   <a href="https://www.twitter.com/__footer__" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+<a href='https://leetcode.com/whoisroni_/'><img src='https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png' width='32' height='32'</a>
+</p>
 <!-- ### Badges -->
 
 <b>My GitHub Stats</b>
